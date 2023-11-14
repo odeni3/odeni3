@@ -57,12 +57,4 @@
      </a>
 </p>
 
-  <!-- deivder -->
-  
-  <p align="center">
-    <a href="https://github.com/odeni3"><span>
-        <img align="center"
-          src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=odeni3&theme=github_dark" width="100%" />
-      </span></a>
-  </p>
   
