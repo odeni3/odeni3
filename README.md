@@ -3,8 +3,8 @@
 </div>   
    
  
-<h1 align="center">Olá, me chamo Daniel Guilherme👋</h1>
-<h3 align="center">Estudante de Engenharia da Computação.</h3>
+<h1 align="center">Hello, i´m Daniel Guilherme👋</h1>
+<h3 align="center">Computer Engineering Student.</h3>
 <hr>
 <p align="center">
     <a href="https://www.linkedin.com/in/daniel-guilherme-99746b22a/" target="_blank"><img align="center"
@@ -16,16 +16,16 @@
     </p>
     </br> 
     
-- 🔭 **Um entusiasta da tecnologia**;
+- 🔭 **A technology enthusiast**;
 
-- 📫 **Email para contato**
+- 📫 **Contact email**
  **danielgpmeneses@gmail.com**;
 
-- 👨‍💻 **Todos os meus projetos estão localizados no meu github [odeni3](https://github.com/odeni3)**;
+- 👨‍💻 **All my projects are located on my github [odeni3](https://github.com/odeni3)**;
 
 <br> 
 
-<h2 align="center"><i>Tecnologias</i></h2>
+<h2 align="center"><i>Technologies</i></h2>
 
 <p align="center">
     <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
