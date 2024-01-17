@@ -46,12 +46,6 @@
 <p align="center"><img 
         src="https://github-readme-stats.vercel.app/api/top-langs?username=odeni3&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></p>    
 <p align="center">
-    <a href="https://github.com/odeni3">
-        <img title=":fire: Get streak stats for your profile at git.io/streak-stats" alt="streak"
-            src="https://github-readme-streak-stats.herokuapp.com/?user=odeni3&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" />
-    </a>
-</p>
-<p align="center">
     <a href="https://github.com/odeni3"><img alt="odeni3's Status"
             src="https://github-readme-stats.vercel.app/api?username=odeni3&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
      </a>
