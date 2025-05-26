@@ -22,9 +22,6 @@
 * 🌱 I am very curious about the area of ​​cybersecurity and data science.
 * 📫 Contact: **danielgpmeneses@gmail.com**
 
----
-
-
 <h2 align="center"><i>Technologies</i></h2>
 
 <p align="center">
